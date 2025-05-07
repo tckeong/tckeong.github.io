@@ -7,7 +7,7 @@ Hi, I'm Choon Keong (CK), a Computer Science student passionate about software d
 ## 🎓 Education
 
 **Bachelor of Computer Science**  
-National University of Singapore, 2023–2027
+National University of Singapore, 2023–2027  
 Focus Area: Parallel Computing & Artificial Intelligent
 
 ---
