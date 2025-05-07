@@ -38,7 +38,7 @@ Focus Area: Parallel Computing & Artificial Intelligent
 
 ## 🛠️ Projects
 
-### 📌 Spotify Lyrics App
+### 📌 Spotify Lyrics App [link](https://github.com/tckeong/lyrics-app)
 
 -   **Description**: An application can synchronize with spotify current track and show the lyrics.
 -   **Tech Stack**: React, Tauri (Rust)
