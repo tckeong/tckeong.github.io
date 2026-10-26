@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I'm Choon Keong (CK), a Computer Science student passionate about software development and technology.
+Hi, I'm Choon Keong, a Computer Science student passionate about software development and technology.
 
 ---
 
